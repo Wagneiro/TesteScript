@@ -1,2 +1,2 @@
 # TesteScript
-Aplicação para testar scriptAutomatizado ne isso
+Aplicação para testar scriptAutomatizadapenas um teste
